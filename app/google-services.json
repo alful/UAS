@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470349478566",
+    "firebase_url": "https://lat10firebase-default-rtdb.firebaseio.com",
+    "project_id": "lat10firebase",
+    "storage_bucket": "lat10firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470349478566:android:55ff2bd30c9902ebab9267",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470349478566-rt5lsvhffsk23kulqhpt0fb4lme2jio2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uas",
+            "certificate_hash": "9cab89dcca2b3dc3c9dbac87d8133a18795149b3"
+          }
+        },
+        {
+          "client_id": "470349478566-6ghniqp9h279h3m56cidfjvje4du00uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ61UWZPxGv96s2CUCkmQSC78aEuwKTRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470349478566-6ghniqp9h279h3m56cidfjvje4du00uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
